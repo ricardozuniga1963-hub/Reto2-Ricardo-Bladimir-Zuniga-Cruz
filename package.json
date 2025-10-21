@@ -1,0 +1,11 @@
+{
+  "name": "selenium-grid-demo",
+  "version": "1.0.0",
+  "description": "Demo Selenium Grid con Chrome",
+  "scripts": {
+    "test": "node tests/reliable-chrome-test.js"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.14.0"
+  }
+}
